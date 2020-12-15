@@ -57,6 +57,6 @@ blog-posting-moim
 
 - sj : https://ysjune.github.io/
 - yj :
-- jd :
+- jd : 고민중
 - mj : 
 - se :
