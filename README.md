@@ -59,4 +59,4 @@ blog-posting-moim
 - yj :
 - jd : 고민중
 - mj : 
-- se :
+- se : https://kimse9450-dev.tistory.com
