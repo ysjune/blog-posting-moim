@@ -53,4 +53,5 @@ blog-posting-moim
 - sj : https://ysjune.github.io/
 - yj :
 - jd : 고민중
-- se : https://kimse9450-dev.tistory.com
+- se : https://kimse9450-dev.tistory.com / 이번주 글 : https://kimse9450-dev.tistory.com/1 
+* 2020년 12월 28일 노트북 들구 갈게요 여기 깃허브에 글을 올리는 법을 잘 모르겠어요.. 모두의 도움을 받아 한번 해 보고 싶네요 도움!!  ^ ^ 낼 만나요! 
