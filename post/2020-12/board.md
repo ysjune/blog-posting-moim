@@ -9,7 +9,7 @@
 - sj : https://ysjune.github.io/posts/java/orelsenorelseget/
 - yj :
 - jd :
-- se :
+- se :https://kimse9450-dev.tistory.com/1
 
 
 
@@ -22,7 +22,7 @@
 - sj : https://ysjune.github.io/posts/chatter/2020retrospect/
 - yj :
 - jd : https://jdragon.oopy.io/retrospect/2021
-- se :
+- se : https://kimse9450-dev.tistory.com/2
 
 ------
 
