@@ -21,7 +21,7 @@
 
 - sj : https://ysjune.github.io/posts/chatter/2020retrospect/
 - yj :
-- jd :
+- jd : https://jdragon.oopy.io/diary/2021
 - se :
 
 ------
