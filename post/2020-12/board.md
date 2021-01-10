@@ -19,7 +19,7 @@
 
 #### (12/28 ~ 1/10)
 
-- sj : 
+- sj : https://ysjune.github.io/posts/chatter/2020retrospect/
 - yj :
 - jd :
 - se :
