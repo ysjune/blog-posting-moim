@@ -8,7 +8,7 @@
 
 - sj : https://ysjune.github.io/posts/java/jpa_lock/
 - yj :
-- jd : 
+- jd : https://yongdev.tistory.com/158
 - se :
 
 
