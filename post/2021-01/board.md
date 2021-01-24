@@ -6,7 +6,7 @@
 
 #### (1/11 ~ 1/24)
 
-- sj : 
+- sj : https://ysjune.github.io/posts/java/jpa_lock/
 - yj :
 - jd : 
 - se :
