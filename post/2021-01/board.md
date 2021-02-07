@@ -22,7 +22,7 @@
 - sj : https://ysjune.github.io/posts/java/aysnc_1/
 - yj :
 - jd : 
-- se :
+- se : https://kimse9450-dev.tistory.com/3
 
 ------
 
