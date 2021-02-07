@@ -19,7 +19,7 @@
 
 #### (1/25 ~ 2/7)
 
-- sj : 
+- sj : https://ysjune.github.io/posts/java/aysnc_1/
 - yj :
 - jd : 
 - se :
