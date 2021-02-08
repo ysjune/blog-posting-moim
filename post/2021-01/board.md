@@ -7,7 +7,7 @@
 #### (1/11 ~ 1/24)
 
 - sj : https://ysjune.github.io/posts/java/jpa_lock/
-- yj :
+- yj : https://www.notion.so/youjung/VPC-617500ad2c8245559310eabbe99340d5
 - jd : https://yongdev.tistory.com/158
 - se :
 
