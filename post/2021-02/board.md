@@ -6,7 +6,7 @@
 
 #### (2/8 ~ 2/21)
 
-- sj : 
+- sj : https://ysjune.github.io/posts/java/async_2
 - yj :
 - jd : 
 - se :
