@@ -7,7 +7,7 @@
 #### (2/8 ~ 2/21)
 
 - sj : https://ysjune.github.io/posts/java/async_2
-- yj :
+- yj : https://youjung-hong.tistory.com/2
 - jd : 
 - se :
 
@@ -20,7 +20,7 @@
 #### (2/22 ~ 3/8)
 
 - sj : 
-- yj : https://youjung-hong.tistory.com/2
+- yj :
 - jd : 
 - se :
 
