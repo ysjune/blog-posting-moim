@@ -22,7 +22,7 @@
 - sj : 
 - yj :
 - jd : 
-- se :
+- se : https://kimse9450-dev.tistory.com/5
 
 ------
 
@@ -32,3 +32,4 @@
 - yj :
 - jd : 
 - se :
+
