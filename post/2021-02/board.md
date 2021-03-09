@@ -20,7 +20,7 @@
 #### (2/22 ~ 3/8)
 
 - sj : 
-- yj :
+- yj : https://youjung-hong.tistory.com/15
 - jd : 
 - se : https://kimse9450-dev.tistory.com/5
 
