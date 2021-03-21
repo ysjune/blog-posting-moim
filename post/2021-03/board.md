@@ -6,7 +6,7 @@
 
 #### (3/8~ 3/21)
 
-- sj : 
+- sj : https://ysjune.github.io/posts/design/rest_1/
 - yj :
 - jd : 
 - se :
