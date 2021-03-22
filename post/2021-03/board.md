@@ -7,7 +7,7 @@
 #### (3/8~ 3/21)
 
 - sj : https://ysjune.github.io/posts/design/rest_1/
-- yj :
+- yj : https://youjung-hong.tistory.com/22
 - jd : 
 - se :
 
