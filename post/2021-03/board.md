@@ -19,7 +19,7 @@
 
 #### (3/22 ~ 4/5)
 
-- sj : 
+- sj : https://ysjune.github.io/posts/design/rest_2/
 - yj :
 - jd : 
 - se :
