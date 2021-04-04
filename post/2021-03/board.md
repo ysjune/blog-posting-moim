@@ -20,7 +20,7 @@
 #### (3/22 ~ 4/5)
 
 - sj : https://ysjune.github.io/posts/design/rest_2/
-- yj :
+- yj : https://youjung-hong.tistory.com/30
 - jd : 
 - se :
 
