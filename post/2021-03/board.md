@@ -22,7 +22,7 @@
 - sj : https://ysjune.github.io/posts/design/rest_2/
 - yj : https://youjung-hong.tistory.com/30
 - jd : 
-- se :
+- se : https://kimse9450-dev.tistory.com/7
 
 ------
 
