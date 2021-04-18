@@ -7,7 +7,7 @@
 #### (4/5 ~ 4/19)
 
 - sj : https://ysjune.github.io/posts/http/http_message
-- yj :
+- yj : https://youjung-hong.tistory.com/32
 - jd : 
 - se :
 
