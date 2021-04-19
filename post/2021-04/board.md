@@ -9,7 +9,7 @@
 - sj : https://ysjune.github.io/posts/http/http_message
 - yj : https://youjung-hong.tistory.com/32
 - jd : 
-- se :
+- se : https://kimse9450-dev.tistory.com/8
 
 
 
