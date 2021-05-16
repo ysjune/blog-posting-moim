@@ -9,7 +9,7 @@
 - sj : https://ysjune.github.io/posts/java/multi_thread/
 - yj :
 - jd : 
-- se :
+- se : https://kimse9450-dev.tistory.com/10
 
 
 
